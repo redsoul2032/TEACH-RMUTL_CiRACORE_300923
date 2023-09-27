@@ -9,6 +9,8 @@ Setup สำหรับ Linebot:
 
 Official CiRA CORE Training: [Link 1](https://docs.google.com/spreadsheets/d/1FOC1_7c3la91gN0qDu7LyH38-QvpFmPq3pUWKZEr9H0/edit#gid=0) | [Link 2](https://drive.google.com/drive/folders/1ZV2SaFev0zYfQ346Po5ShyQQ3iZEY8Wx)
 
+[Official CiRA CORE Community](https://www.facebook.com/groups/cira.core.comm)
+
 # ภาพรวม
 <img src="./image/git/overview.png">
 

@@ -6,6 +6,9 @@
 
 Setup สำหรับ Linebot:
 [Setup linebot](https://livermutlac-my.sharepoint.com/:b:/g/personal/puriphat_ji64_live_rmutl_ac_th/Ec9CfmnkkcRHi7bASIF-DS4B7uoldH7YTZf4e4-oE67Lzw?e=iExzEY) | [Download pdf](https://github.com/redsoul2032/TEACH-RMUTL_CiRACORE_300923/files/12735796/01-setup.linebot.ciracore.pdf)
+
+Official CiRA CORE Training: [Link 1](https://docs.google.com/spreadsheets/d/1FOC1_7c3la91gN0qDu7LyH38-QvpFmPq3pUWKZEr9H0/edit#gid=0) | [Link 2](https://drive.google.com/drive/folders/1ZV2SaFev0zYfQ346Po5ShyQQ3iZEY8Wx)
+
 # ภาพรวม
 <img src="./image/git/overview.png">
 
